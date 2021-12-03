@@ -1,0 +1,26 @@
+body{
+    background-color: #3C91CC;
+}
+.cartao{
+    width: 400px;
+    height: 200px;
+    background: url(../assets/Fundo.png);
+    background-size: cover;
+    margin: auto;
+    margin-top: 20%;
+    box-sizing: border-box;
+    padding: 1px 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.Instagram{
+    list-style-image: url('../assets/logo_insta.png');
+}
+.Twitter{
+    list-style-image: url('../assets/logo_tt.png');
+}
+.Github{
+    list-style-image: url('../assets/logo_github.png');
+}
